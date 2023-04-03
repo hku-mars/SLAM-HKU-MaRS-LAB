@@ -7,6 +7,19 @@ At MaRS Lab, our current research focuses on the design, planning, and control o
 ## Introduction to this repository
 In this GitHub repository, we **present our latest research works related to SLAM**, organized chronologically by their ***publication date***. These works showcase our team's innovative ideas, rigorous methodologies, and cutting-edge solutions in the field of robotics. We hope that our work inspires you, and we welcome collaboration and feedback from the robotics community.
 
+## Contributors (organized by letter A-Z)
+- Fu Zhang (Supervisor) 张富(导师)
+- Chonjiang Yuan 袁崇健
+- Chunrang Zheng 郑纯然
+- Dongjiao He 贺东娇
+- Fangcheng Zhu 朱方程
+- [Jiarong Lin 林家荣](https://jiaronglin.com/)
+- Wei Xu 徐威
+- Xiyuan Liu 刘晰源
+- Yixi Cai 蔡逸熙
+- Zheng Liu 刘政
+## Acknowledgement (TODO)
+
 ### Loam_livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV 
 - Author: [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
 - Date: 2020/05
@@ -20,6 +33,12 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **IROS2020** 
 - Github (★171): https://github.com/hku-mars/decentralized_loam
 - Category: LiDAR SLAM; Multi-LiDAR fusion
+
+### ikd-Tree: An Incremental K-D Tree for Robotic Applications
+- Author: Yixi Cai, Wei Xu, Fu Zhang
+- Date: 2021/02
+- Github (★415): https://github.com/hku-mars/ikd-Tree
+- Category: LiDAR SLAM
 
 ### Balm: Bundle adjustment for lidar mapping
 - Author: Zheng Liu, Fu Zhang
@@ -52,7 +71,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 ### R<sup>3</sup>LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
 - Author: [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
 - Date: 2021/09
-- Accepted to ICRA2022
+- Accepted to **ICRA2022**
 - Github (★1.4K): https://github.com/hku-mars/r3live
 - Category: LiDAR SLAM; LiDAR-Inertial-Visual fusion
 
@@ -132,7 +151,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Category: LiDAR SLAM
 
 ### ImMesh: An Immediate LiDAR Localization and Meshing Framework
-- Author: [Jiarong Lin](https://jiaronglin.com/)*, Chongjiang Yuan*, Yixi Cai, Haotian Li, Yuying Zou, Xiaoping Hong, Fu Zhang
+- Author: [Jiarong Lin*](https://jiaronglin.com/), Chongjiang Yuan*, Yixi Cai, Haotian Li, Yuying Zou, Xiaoping Hong, Fu Zhang
 - Date: 2023/01
 - Under review
 - Github (★277): https://github.com/hku-mars/ImMesh
