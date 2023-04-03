@@ -1,13 +1,14 @@
 # SLAM @ HKU-MaRS
-## Introduction to HKU-MaRS lab
+# 1. Introduction
+## 1.1 Introduction to HKU-MaRS lab
 Welcome to the Mechatronics and Robotic Systems (MaRS) Laboratory, located in the Department of Mechanical Engineering at the prestigious University of Hong Kong (HKU). Our mission is to push the boundaries of mechatronic systems and robotics, by emphasizing practical applications that can improve human life and industry.
 
 At MaRS Lab, our current research focuses on the design, planning, and control of aerial robots, as well as lidar-based simultaneous localization and mapping (SLAM). We believe that these technologies can have a significant impact on many fields, from search and rescue operations to agriculture and beyond.
 
-## Introduction to this repository
+## 1.2 Introduction to this repository
 In this GitHub repository, we **present our latest research works related to SLAM**, organized chronologically by their ***publication date***. These works showcase our team's innovative ideas, rigorous methodologies, and cutting-edge solutions in the field of robotics. We hope that our work inspires you, and we welcome collaboration and feedback from the robotics community.
 
-## Contributors (organized by letter A-Z)
+## 1.3 Contributors (organized by letter A-Z)
 - Fu Zhang (Supervisor) 张富(导师)
 - Chonjiang Yuan 袁崇健
 - Chunrang Zheng 郑纯然
@@ -18,14 +19,18 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Xiyuan Liu 刘晰源
 - Yixi Cai 蔡逸熙
 - Zheng Liu 刘政
-## Acknowledgement (TODO)
+## 1.4 Acknowledgement (TODO)
 
+# 2. SLAM researches @ HKU-MaRS
 ### Loam_livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV 
 - Author: [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
 - Date: 2020/05
 - Accepted to **ICRA2020**
 - Github (★1.2k): https://github.com/hku-mars/loam_livox
 - Category: LiDAR SLAM
+- Relative notes & articles:
+  - [【泡泡图灵智库】Loam livox：一种用于小视场角激光雷达的快速、鲁棒、高精度的激光雷达里程计和建图包](https://mp.weixin.qq.com/s/Ym5g0xf8Dlqet20x80WaZQ)
+
 
 ### A decentralized framework for simultaneous calibration, localization and mapping with multiple LiDARs
 - Author: [Jiarong Lin](https://jiaronglin.com/), Xiyuan Liu, Fu Zhang
@@ -95,6 +100,8 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **IROS2022**
 - Github (★533): https://github.com/hku-mars/FAST-LIVO
 - Category: LiDAR SLAM; LiDAR-Inertial-Visual fusion
+- Relative notes & articles:
+  - [【泡泡点云时空】FAST-LIVO: 快速且紧耦合的稀疏直接LiDAR-惯性-视觉里程计](https://mp.weixin.qq.com/s/xpwDxFHNqHaergU1GA9uXA)
 
 ### Targetless extrinsic calibration of multiple small FoV LiDARs and cameras using adaptive voxelization
 - Author: Xiyuan Liu, Chongjian Yuan, Fu Zhang
