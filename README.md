@@ -59,6 +59,12 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Github (★1.4K): https://github.com/hku-mars/FAST_LIO
 - Category: LiDAR SLAM; LiDAR-Inertial fusion
 
+### Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments
+- Author: Xiyuan Liu, Fu Zhang
+- Date: 2021/04
+- Accepted to **RA-L2021**
+- Category: LiDAR-LiDAR calibration
+
 ### R<sup>2</sup>LIVE: A Robust, Real-Time, LiDAR-Inertial-Visual Tightly-Coupled State Estimator and Mapping
 - Author: [Jiarong Lin](https://jiaronglin.com/), Chunran Zheng, Wei Xu, Fu Zhang
 - Date: 2021/07
@@ -108,7 +114,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Date: 2022/05
 - Accepted to **TIM2022**
 - Github (★278): https://github.com/hku-mars/mlcc
-- Category: LiDAR SLAM
+- Category: LiDAR-LiDAR & LiDAR-Camera calibration
 
 ### Pixel-level extrinsic self calibration of high resolution lidar and camera in targetless environments
 - Author: Chongjian Yuan, Xiyuan Liu, Xiaoping Hong, Fu Zhang
@@ -139,16 +145,16 @@ In this GitHub repository, we **present our latest research works related to SLA
 
 ### Large-Scale LiDAR Consistent Mapping using Hierachical LiDAR Bundle Adjustment
 - Author: Xiyuan Liu, Zheng Liu, Fanze Kong, Fu Zhang
-- Date: 2022/09
-- Accepted to **RA-L2022**
-- Category: LiDAR Bundle adjustment
+- Date: 2023/03
+- Accepted to **RA-L2023**
+- Category: LiDAR Bundle Adjustment
 
 ### Efficient and Consistent Bundle Adjustment on Lidar Point Clouds
 - Author: Zheng Liu, Xiyuan Liu, Fu Zhang
 - Date: 2022/09
 - Under review
 - Github (★436): https://github.com/hku-mars/BALM
-- Category: LiDAR Bundle adjustment
+- Category: LiDAR Bundle Adjustment
 
 ### Symbolic Representation and Toolkit Development of Iterated Error-State Extended Kalman Filters on Manifolds
 - Author: Dongjiao He, Wei Xu, Fu Zhang
