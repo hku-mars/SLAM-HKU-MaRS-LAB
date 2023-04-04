@@ -156,17 +156,17 @@ https://www.zhihu.com/question/332926945/answer/836032023)
 - Github (★1.4K): https://github.com/hku-mars/r3live
 - Category: LiDAR SLAM; LiDAR-Inertial-Visual fusion
 - Relative notes & articles:
-  - [多传感器融合SLAM|R3LIVE++论文带读（一）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/596228149)
-  - [多传感器融合SLAM|R3LIVE++论文带读（二）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/596957937)
-  - [多传感器融合SLAM|R3LIVE++论文带读（三）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/598236929)
-  - [多传感器融合SLAM|R3LIVE++论文带读（四）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/598276346)
+  - [多传感器融合SLAM|R3LIVE++论文带读（一）- 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/596228149)
+  - [多传感器融合SLAM|R3LIVE++论文带读（二）- 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/596957937)
+  - [多传感器融合SLAM|R3LIVE++论文带读（三）- 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/598236929)
+  - [多传感器融合SLAM|R3LIVE++论文带读（四）- 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/598276346)
   - [R3LIVE++：一个鲁棒实时的重建package！具有紧密耦合的激光雷达惯性视觉状态估计器 - 自动驾驶之心的文章 - 知乎](https://zhuanlan.zhihu.com/p/568436911)
 
 ### STD: Stable Triangle Descriptor for 3D place recognition
 - Author: Chongjian Yuan*, [Jiarong Lin](https://jiaronglin.com/)*, Zuhao Zou, Xiaoping Hong, Fu Zhang
 - Date: 2022/09
 - Accepted to **ICRA2023**
-- Github (★197): https://github.com/hku-mars/r3live
+- Github (★197): https://github.com/hku-mars/STD
 - Category: loop detection & closure
 
 ### Decentralized LiDAR-inertial Swarm Odometry
