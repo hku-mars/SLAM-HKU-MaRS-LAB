@@ -17,7 +17,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 - [Jiarong Lin 林家荣](https://jiaronglin.com/)
 - Wei Xu 徐威
 - Xiyuan Liu 刘晰源
-- Yixi Cai 蔡逸熙
+- [Yixi Cai 蔡逸熙](https://github.com/Ecstasy-EC)
 - Zheng Liu 刘政
 ## 1.4 Acknowledgement (TODO)
 
@@ -43,7 +43,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Author: Yixi Cai, Wei Xu, Fu Zhang
 - Date: 2021/02
 - Github (★415): https://github.com/hku-mars/ikd-Tree
-- Category: LiDAR SLAM
+- Category: LiDAR SLAM, Map Structure
 
 ### Balm: Bundle adjustment for lidar mapping
 - Author: Zheng Liu, Fu Zhang
@@ -58,6 +58,9 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **RA-L2021**
 - Github (★1.4K): https://github.com/hku-mars/FAST_LIO
 - Category: LiDAR SLAM; LiDAR-Inertial fusion
+- Relative notes & articles:
+  - [【泡泡图灵智库】FAST-LIO: 基于迭代卡尔曼的激光惯性里程计软件包](https://mp.weixin.qq.com/s/WsplEpdh-c_Rjz9fCOF9Ig) 
+  - [【点云时空LOAM专题】Fast-LIO & Fast-LIO2 原理及代码解析](https://mp.weixin.qq.com/s/x7dG9fxoSwejaWc4aEAQFw)
 
 ### Extrinsic Calibration of Multiple LiDARs of Small FoV in Targetless Environments
 - Author: Xiyuan Liu, Fu Zhang
@@ -78,6 +81,9 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **T-RO2022**
 - Github (★1.4K): https://github.com/hku-mars/FAST_LIO
 - Category: LiDAR SLAM; LiDAR-Inertial fusion
+- Relative notes & articles:
+  - [【泡泡图灵智库】FAST-LIO2: 快速且直接的激光雷达与惯导里程计](https://mp.weixin.qq.com/s/VFByGE3fXtXos5Mx1vB7cA) 
+  - [【点云时空LOAM专题】Fast-LIO & Fast-LIO2 原理及代码解析](https://mp.weixin.qq.com/s/x7dG9fxoSwejaWc4aEAQFw)
 
 ### R<sup>3</sup>LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
 - Author: [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
