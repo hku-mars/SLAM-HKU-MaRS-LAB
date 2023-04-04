@@ -19,7 +19,13 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Xiyuan Liu 刘晰源
 - [Yixi Cai 蔡逸熙](https://github.com/Ecstasy-EC)
 - Zheng Liu 刘政
+
 ## 1.4 Acknowledgement (TODO)
+Todo
+
+## 1.5 Relative Talks and seminars
+- [【深蓝学院】基于多传感器融合的定位和建图系统](https://www.shenlanxueyuan.com/open/course/181)
+  - [PPT: Simultaneous_localization_and_mapping_with_Multi-sensor_Fusion.pdf](https://jiaronglin.com/uploads/Simultaneous_localization_and_mapping_with_Multi-sensor_Fusion.pdf)
 
 # 2. SLAM researches @ HKU-MaRS
 ### Loam_livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV 
@@ -30,6 +36,9 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Category: LiDAR SLAM
 - Relative notes & articles:
   - [【泡泡图灵智库】Loam livox：一种用于小视场角激光雷达的快速、鲁棒、高精度的激光雷达里程计和建图包](https://mp.weixin.qq.com/s/Ym5g0xf8Dlqet20x80WaZQ)
+  - [如何评价大疆投资的激光雷达在国内正式开售？会有哪些影响？ - ziv.lin的回答 - 知乎](
+https://www.zhihu.com/question/332926945/answer/836032023)
+  - [激光SLAM | 基于固态雷达的里程计：Loam Livox - 任乾的文章 - 知乎](https://zhuanlan.zhihu.com/p/93579424)
 
 
 ### A decentralized framework for simultaneous calibration, localization and mapping with multiple LiDARs
@@ -38,6 +47,8 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **IROS2020** 
 - Github (★171): https://github.com/hku-mars/decentralized_loam
 - Category: LiDAR SLAM; Multi-LiDAR fusion
+- Relative notes & articles:
+  - [多激光雷达的协同定位建图及在线外参自标定 - ziv.lin的文章 - 知乎](https://zhuanlan.zhihu.com/p/157533731)
 
 ### ikd-Tree: An Incremental K-D Tree for Robotic Applications
 - Author: Yixi Cai, Wei Xu, Fu Zhang
@@ -74,7 +85,10 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **RA-L2021**
 - Github (★622): https://github.com/hku-mars/r2live
 - Category: LiDAR SLAM; LiDAR-Inertial-Visual fusion
-
+- Relative notes & articles:
+  - [【泡泡图灵智库】R2LIVE: 一个鲁棒实时的雷达-惯导-视觉紧耦合的位姿估计和建图系统](https://mp.weixin.qq.com/s/W60TtqD3Dikx2NGER0d_gA)
+  - [【泡泡点云时空】R2LIVE：鲁棒，实时，雷达-IMU-视觉紧耦合状态估计及建图](https://mp.weixin.qq.com/s/sdiuZlApr-aP0B5J12hQ_A)
+  - [论文阅读《R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping》 - 晃晃悠悠的虚无周的文章 - 知乎](https://zhuanlan.zhihu.com/p/377319191)
 ### Fast-lio2: Fast direct lidar-inertial odometry
 - Author: Wei Xu, Yixi Cai, Dongjiao He, [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
 - Date: 2021/07
@@ -91,6 +105,12 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Accepted to **ICRA2022**
 - Github (★1.4K): https://github.com/hku-mars/r3live
 - Category: LiDAR SLAM; LiDAR-Inertial-Visual fusion
+- Relative notes & articles:
+  - [【泡泡图灵智库】R3LIVE：一个实时鲁棒、且有RGB着色的激光雷达-惯性-视觉紧耦合系统](https://mp.weixin.qq.com/s/tMC46tlIcPPMXhkiSp2ogw)
+  - [Livox 学术先锋 ｜ 香港大学 MaRS 实验室 R3LIVE 实时鲁棒性紧耦合系统](https://www.livoxtech.com/cn/showcase/livox-r3live)
+  - [R3LIVE开源代码全体验及测试 - 颍川滞的文章 - 知乎](https://zhuanlan.zhihu.com/p/453038352)
+  - [论文阅读 R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state ... - 晃晃悠悠的虚无周的文章 - 知乎](https://zhuanlan.zhihu.com/p/428827372)
+  - [R3LIVE 代码解析 - stella的文章 - 知乎](https://zhuanlan.zhihu.com/p/480275319)
 
 ### Efficient and probabilistic adaptive voxel mapping for accurate online lidar odometry
 - Author: Chongjian Yuan, Wei Xu, Xiyuan Liu, Xiaoping Hong, Fu Zhang
@@ -135,6 +155,12 @@ In this GitHub repository, we **present our latest research works related to SLA
 - Under review
 - Github (★1.4K): https://github.com/hku-mars/r3live
 - Category: LiDAR SLAM; LiDAR-Inertial-Visual fusion
+- Relative notes & articles:
+  - [多传感器融合SLAM|R3LIVE++论文带读（一）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/596228149)
+  - [多传感器融合SLAM|R3LIVE++论文带读（二）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/596957937)
+  - [多传感器融合SLAM|R3LIVE++论文带读（三）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/598236929)
+  - [多传感器融合SLAM|R3LIVE++论文带读（四）（划重点）——香港大学火星实验室最新研究工作 - 自动驾驶专栏的文章 - 知乎](https://zhuanlan.zhihu.com/p/598276346)
+  - [R3LIVE++：一个鲁棒实时的重建package！具有紧密耦合的激光雷达惯性视觉状态估计器 - 自动驾驶之心的文章 - 知乎](https://zhuanlan.zhihu.com/p/568436911)
 
 ### STD: Stable Triangle Descriptor for 3D place recognition
 - Author: Chongjian Yuan*, [Jiarong Lin](https://jiaronglin.com/)*, Zuhao Zou, Xiaoping Hong, Fu Zhang
