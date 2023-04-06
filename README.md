@@ -55,6 +55,8 @@ https://www.zhihu.com/question/332926945/answer/836032023)
 - Date: 2021/02
 - Github (★415): https://github.com/hku-mars/ikd-Tree
 - Category: LiDAR SLAM, Map Structure
+- Relative notes & articles:
+  - [数据结构专题(二) | ikd-Tree: 港大开源增量式 kd-tree 结构 & 开源中文注释](https://zhuanlan.zhihu.com/p/529926254)
 
 ### Balm: Bundle adjustment for lidar mapping
 - Author: Zheng Liu, Fu Zhang
@@ -89,6 +91,7 @@ https://www.zhihu.com/question/332926945/answer/836032023)
   - [【泡泡图灵智库】R2LIVE: 一个鲁棒实时的雷达-惯导-视觉紧耦合的位姿估计和建图系统](https://mp.weixin.qq.com/s/W60TtqD3Dikx2NGER0d_gA)
   - [【泡泡点云时空】R2LIVE：鲁棒，实时，雷达-IMU-视觉紧耦合状态估计及建图](https://mp.weixin.qq.com/s/sdiuZlApr-aP0B5J12hQ_A)
   - [论文阅读《R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping》 - 晃晃悠悠的虚无周的文章 - 知乎](https://zhuanlan.zhihu.com/p/377319191)
+  
 ### Fast-lio2: Fast direct lidar-inertial odometry
 - Author: Wei Xu, Yixi Cai, Dongjiao He, [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
 - Date: 2021/07
