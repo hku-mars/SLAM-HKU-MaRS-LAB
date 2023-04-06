@@ -10,7 +10,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 
 ## 1.3 Contributors (organized by letter A-Z)
 - Fu Zhang (Supervisor) 张富(导师)
-- Chonjiang Yuan 袁崇健
+- [Chonjiang Yuan 袁崇健](https://github.com/ChongjianYUAN)
 - Chunrang Zheng 郑纯然
 - Dongjiao He 贺东娇
 - Fangcheng Zhu 朱方程
@@ -91,7 +91,16 @@ https://www.zhihu.com/question/332926945/answer/836032023)
   - [【泡泡图灵智库】R2LIVE: 一个鲁棒实时的雷达-惯导-视觉紧耦合的位姿估计和建图系统](https://mp.weixin.qq.com/s/W60TtqD3Dikx2NGER0d_gA)
   - [【泡泡点云时空】R2LIVE：鲁棒，实时，雷达-IMU-视觉紧耦合状态估计及建图](https://mp.weixin.qq.com/s/sdiuZlApr-aP0B5J12hQ_A)
   - [论文阅读《R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping》 - 晃晃悠悠的虚无周的文章 - 知乎](https://zhuanlan.zhihu.com/p/377319191)
-  
+
+### Pixel-level extrinsic self calibration of high resolution lidar and camera in targetless environments
+- Author: Chongjian Yuan, Xiyuan Liu, Xiaoping Hong, Fu Zhang
+- Date: 2021/07
+- Accepted to **RA-L2021**
+- Github (★549): https://github.com/hku-mars/livox_camera_calib
+- Category: LiDAR-Camera calibration
+- Relative notes & articles:
+  - [【泡泡点云时空】像素精度的高分辨率雷达和相机外参自标定](https://mp.weixin.qq.com/s/UYuOmoWi96RuRXr-VqJwuA)
+
 ### Fast-lio2: Fast direct lidar-inertial odometry
 - Author: Wei Xu, Yixi Cai, Dongjiao He, [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
 - Date: 2021/07
@@ -114,13 +123,6 @@ https://www.zhihu.com/question/332926945/answer/836032023)
   - [R3LIVE开源代码全体验及测试 - 颍川滞的文章 - 知乎](https://zhuanlan.zhihu.com/p/453038352)
   - [论文阅读 R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state ... - 晃晃悠悠的虚无周的文章 - 知乎](https://zhuanlan.zhihu.com/p/428827372)
   - [R3LIVE 代码解析 - stella的文章 - 知乎](https://zhuanlan.zhihu.com/p/480275319)
-
-### Efficient and probabilistic adaptive voxel mapping for accurate online lidar odometry
-- Author: Chongjian Yuan, Wei Xu, Xiyuan Liu, Xiaoping Hong, Fu Zhang
-- Date: 2021/09
-- Accepted to **RA-L2022**
-- Github (★274): https://github.com/hku-mars/VoxelMap
-- Category: LiDAR SLAM
 
 ### Robust real-time lidar-inertial initialization
 - Author: Fangcheng Zhu, Yunfan Ren, Fu Zhang
@@ -145,12 +147,13 @@ https://www.zhihu.com/question/332926945/answer/836032023)
 - Github (★278): https://github.com/hku-mars/mlcc
 - Category: LiDAR-LiDAR & LiDAR-Camera calibration
 
-### Pixel-level extrinsic self calibration of high resolution lidar and camera in targetless environments
-- Author: Chongjian Yuan, Xiyuan Liu, Xiaoping Hong, Fu Zhang
+### Efficient and probabilistic adaptive voxel mapping for accurate online lidar odometry
+- Author: Chongjian Yuan, Wei Xu, Xiyuan Liu, Xiaoping Hong, Fu Zhang
 - Date: 2022/07
 - Accepted to **RA-L2022**
-- Github (★549): https://github.com/hku-mars/livox_camera_calib
-- Category: LiDAR-Camera calibration
+- Github (★274): https://github.com/hku-mars/VoxelMap
+- Category: LiDAR SLAM
+  - [【泡泡点云时空】高效和概率自适应体素建图实现的精确在线雷达里程计](https://mp.weixin.qq.com/s/idOkmf7l29xw7RQHr3OyZQ)
 
 ### R<sup>3</sup>LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator
 - Author: [Jiarong Lin](https://jiaronglin.com/), Fu Zhang
