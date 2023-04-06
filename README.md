@@ -153,6 +153,7 @@ https://www.zhihu.com/question/332926945/answer/836032023)
 - Accepted to **RA-L2022**
 - Github (★274): https://github.com/hku-mars/VoxelMap
 - Category: LiDAR SLAM
+- Relative notes & articles:
   - [【泡泡点云时空】高效和概率自适应体素建图实现的精确在线雷达里程计](https://mp.weixin.qq.com/s/idOkmf7l29xw7RQHr3OyZQ)
 
 ### R<sup>3</sup>LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator
