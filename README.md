@@ -128,7 +128,7 @@ https://www.zhihu.com/question/332926945/answer/836032023)
 - Author: Fangcheng Zhu, Yunfan Ren, Fu Zhang
 - Date: 2022/02
 - Accepted to **IROS2022**
-- Github (★401): https://github.com/hku-mars/LiDAR_IMU_Init
+- Github (★516): https://github.com/hku-mars/LiDAR_IMU_Init
 - Category: LiDAR-IMU calibration
 - Relative Notes & Articles
  [论文解读 Robust Real-time LiDAR-inertial Initialization (IROS2022)](https://zhuanlan.zhihu.com/p/643584117)
