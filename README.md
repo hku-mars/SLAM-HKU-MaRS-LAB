@@ -13,7 +13,7 @@ In this GitHub repository, we **present our latest research works related to SLA
 - [Chonjiang Yuan 袁崇健](https://github.com/ChongjianYUAN)
 - Chunrang Zheng 郑纯然
 - Dongjiao He 贺东娇
-- Fangcheng Zhu 朱方程
+- [Fangcheng Zhu 朱方程](https://github.com/zfc-zfc)
 - [Jiarong Lin 林家荣](https://jiaronglin.com/)
 - Wei Xu 徐威
 - Xiyuan Liu 刘晰源
@@ -130,6 +130,8 @@ https://www.zhihu.com/question/332926945/answer/836032023)
 - Accepted to **IROS2022**
 - Github (★401): https://github.com/hku-mars/LiDAR_IMU_Init
 - Category: LiDAR-IMU calibration
+- Relative Notes & Articles
+ [论文解读 Robust Real-time LiDAR-inertial Initialization (IROS2022)](https://zhuanlan.zhihu.com/p/643584117)
 
 ### FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry
 - Author: Chunran Zheng, Qingyan Zhu, Wei Xu, Xiyuan Liu, Qizhi Guo, Fu Zhang
